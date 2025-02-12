@@ -63,7 +63,7 @@ if __name__ == '__main__':
                 else: # Si no lo es...
                     print('\nLa llave tiene que ser un entero positivo o negativo')
         elif cifrar_o_descifrar == '3': # Para salir del programa
-            print('Adiós :)')
+            print('\nAdiós :)')
             break
         else: # Si teclea lo que sea fuera de las tres opciones
             print('Opción inválida')
